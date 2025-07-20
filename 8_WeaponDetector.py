@@ -29,9 +29,9 @@ while True:
     if key == ord("q"):
         break
 if gun_exist:
-    print("Gun Detected!")
+    print("Weapon Detected!")
 else:
-    print("No Gun Detected!")       
+    print("No Weapon Detected!")       
 
 camera.release()
 cv2.destroyAllWindows()
