@@ -11,6 +11,7 @@ def Calendar_see():
     year_cal = Label(window, text=window_content, bg="light green", font=("Arial", 15, "bold"))
     year_cal.grid(row=5, column=1, padx=20)
     window.mainloop()
+    print("")
 
 if __name__ == "__main__":
     
