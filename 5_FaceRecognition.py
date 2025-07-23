@@ -68,7 +68,7 @@ video_capture.release()
 cv2.destroyAllWindows()
 f.close()
 # Saving attendance to CSV
-print("Attendance saved to CSV file.")
+
 
 
 
