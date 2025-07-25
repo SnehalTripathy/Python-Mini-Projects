@@ -14,5 +14,5 @@ while True:
         break
     engine.say(text)
     engine.runAndWait()
-print("")
+
     
