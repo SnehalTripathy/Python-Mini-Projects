@@ -14,4 +14,4 @@ output_filename = 'merged_output.pdf'
 merger.write(output_filename)
 merger.close()
 
-# print(f"PDFs merged successfully into '{output_filename}'")
+print(f"PDFs merged successfully into '{output_filename}'")
