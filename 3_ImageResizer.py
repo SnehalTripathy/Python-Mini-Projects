@@ -18,3 +18,5 @@ cv2.destroyAllWindows()
 
 # Saving the resized image 
 cv2.imwrite('resized_output.webp', resized_image)
+print("Resized image saved as 'resized_output.webp'")
+# Note: Ensure you have the necessary permissions to read/write files in the directory.
