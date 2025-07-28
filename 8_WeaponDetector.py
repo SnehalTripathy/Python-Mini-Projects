@@ -35,5 +35,5 @@ else:
 
 camera.release()
 cv2.destroyAllWindows()
-
+print("Exiting...")
     
