@@ -64,4 +64,4 @@ Button3 = Button(root, text="DELETE", font=("Cambria", 15, "bold"),pady=16, padx
 Button3.place(x=500, y=575)
 
 root.mainloop()
-
+print("ROBO 2.O is closed")
