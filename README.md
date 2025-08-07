@@ -1,6 +1,6 @@
 # 🐍 Python Mini Projects Collection
 
-This repository contains 12 beginner-to-intermediate level Python mini projects developed using core libraries, external APIs, and GUI frameworks. 
+This repository contains 12 beginner-to-intermediate level Python mini projects developed using core libraries, external APIs, and GUI framework. 
 
 ---
 
