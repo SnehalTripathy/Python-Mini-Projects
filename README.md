@@ -41,7 +41,7 @@ This repository contains 12 beginner-to-intermediate level Python mini projects 
 
 ---
 
-## ⚙️ How to Run
+## ⚙️ How to Run:
 
 1. Clone the repository:
 
